@@ -18,12 +18,7 @@ A simple CRUD (Create, Read, Update, Delete) application for managing user lists
 - Local application state
 
 ## Technical Implementation
-graph TD
-    A[App] --> B[Header]
-    A --> C[Users]
-    A --> D[AddUser]
-    C --> E[User]
-    E --> D[AddUser-as-Edit-Form]
+<img width="938" height="1146" alt="exampleGraphic" src="https://github.com/user-attachments/assets/946b1da9-8527-476a-9cab-a280343d453b" />
 
 ## TODO
 - Include API documentation
